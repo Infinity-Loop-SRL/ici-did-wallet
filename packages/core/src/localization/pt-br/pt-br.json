@@ -50,7 +50,7 @@
     "Reset": "Reset (PT-BR)",
     "ViewJSON": "View JSON Details (PT-BR)",
     "RefreshCredentials": "Refresh Credentials (PT-BR)",
-    "AppName": "Aries Bifold (PT-BR)"
+    "AppName": "ICI Wallet"
   },
   "Toast": {
     "OpenIDCredRefreshing": {
@@ -172,13 +172,18 @@
   },
   "Terms": {
     "TermsOfService": "Termos de serviço",
-    "TermsOfServiceText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vel consectetur diam. Nunc sit amet elit est. Praesent libero elit, consectetur dapibus diam non, facilisis euismod velit. Etiam a ligula eget leo elementum tincidunt. Fusce et lorem turpis. Nunc tempus nisl consectetur eros vehicula venenatis. Suspendisse potenti. Aenean vitae aliquet augue. Maecenas lacinia nunc vitae blandit hendrerit. Sed congue risus quis magna convallis sollicitudin. Integer in ante vel orci ornare porta quis id libero. Proin mollis urna nec lectus fringilla, sit amet aliquam urna fringilla. Praesent pellentesque non augue et gravida. Donec congue urna ac massa consequat, lacinia condimentum dolor blandit. Nam ultrices tellus at risus dignissim, quis cursus mauris pellentesque. Donec at scelerisque ipsum. Praesent eu massa at tellus cursus ornare. Fusce vel faucibus dolor. Etiam blandit velit sed velit tempus feugiat. Donec condimentum pretium suscipit. Sed suscipit, leo molestie tempus maximus, turpis enim hendrerit nibh, semper sagittis turpis velit sed nisl. Aliquam eu ultrices velit. Aenean tristique mauris justo, eu commodo quam semper non. Curabitur ultricies auctor mi eu tempus. Sed bibendum eros sed neque semper fermentum. Nullam porta tortor ut ante congue molestie. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Curabitur sit amet aliquam nunc, malesuada auctor quam. Pellentesque vel lobortis risus, volutpat suscipit velit. Aenean ut erat sed metus interdum mattis. Nam consectetur ante eu felis rhoncus, et volutpat dolor tincidunt. Vivamus sit amet feugiat mi. Proin in dui ac metus vehicula fringilla eget id mauris. Maecenas et elit venenatis dolor pulvinar pulvinar in et leo. Aliquam scelerisque viverra sapien at bibendum. Curabitur et libero nec enim convallis porttitor sed a libero. In hac habitasse platea dictumst. Integer dignissim velit eu pharetra ultricies. Vestibulum at velit hendrerit, pretium purus eget, lobortis tellus. Maecenas non erat ut lacus scelerisque luctus et et tellus.",
+    "TermsOfServiceText": "Ao usar a ICI Wallet, você concorda em usar o aplicativo apenas para fins lícitos e em proteger seu dispositivo, seu PIN, seu acesso biométrico e suas informações de recuperação.",
+    "Introduction": "Leia e aceite estes termos antes de usar a ICI Wallet.",
+    "SummaryTitle": "Uso da ICI Wallet.",
+    "SummaryText": "A ICI Wallet permite armazenar e apresentar credenciais digitais. Você é responsável pelas informações que compartilha, por manter seu dispositivo seguro e por usar a carteira de acordo com as leis aplicáveis e com os requisitos dos emissores.",
+    "Highlight": "A ICI Wallet não garante que todo emissor, verificador ou mediador estará disponível, compatível ou livre de erros o tempo todo.",
+    "Details": "Adicione apenas credenciais de fontes confiáveis. Não compartilhe seu PIN, não permita acesso de outras pessoas ao aplicativo e não dependa da aplicação como único registro de informações importantes. O aplicativo pode mudar ao longo do tempo, e os serviços conectados a ele podem suspender ou revogar credenciais de acordo com suas próprias políticas. Se você não concordar com estes termos, não continue usando o aplicativo.",
     "IAgree": "Eu Concordo",
     "Attestation": "Eu li, entendo e aceito os termos e condições."
   },
   "Tour": {
-    "GuideTitle": "Bem-vindo a Aries Bifold",
-    "WouldYouLike": "Gostaria de ver algumas instruções sobre como usar a Aries Bifold?",
+    "GuideTitle": "Bem-vindo a ICI Wallet",
+    "WouldYouLike": "Gostaria de ver algumas instruções sobre como usar a ICI Wallet?",
     "UseAppGuides": "Usar o guia do app",
     "DoNotUseAppGuides": "Não usar o guia do app",
     "AddAndShare": "Adicionar e compartilhar credenciais",
@@ -202,11 +207,11 @@
   "CameraDisclosure": {
     "AllowCameraUse": "Permitir uso da câmera",
     "CameraDisclosure": "A câmera é usada para escanear QR Codes para processamento imediato no dispositivo. Nenhuma informação sobre as imagens é armazenada, usada para análise, ou compartilhada.",
-    "ToContinueUsing": "Para continuar usando a funcionalidade de scan da Aries Bifold, favor permitir o uso da câmera.",
+    "ToContinueUsing": "Para continuar usando a funcionalidade de scan da ICI Wallet, favor permitir o uso da câmera.",
     "OpenSettings": "Abrir as configurações"
   },
   "PINCreate": {
-    "Header": "Aries Bifold (PT-BR)",
+    "Header": "ICI Wallet",
     "Subheader": "Secure your Aries wallet (PT-BR)",
     "Explainer": {
       "PrimaryHeading": "Secure your Wallet (PT-BR)",
@@ -279,7 +284,7 @@
     "PrimaryButton": "Go back to settings"
   },
   "PINEnter": {
-    "AppTitle": "Aries Bifold",
+    "AppTitle": "ICI Wallet",
     "EnterPIN": "Digitar PIN",
     "SubText": "Faça login para acessar sua carteira.",
     "Unlock": "Destravar",
@@ -513,7 +518,7 @@
     "BulletThree": "updates to your credentials (PT-BR)",
     "BulletTwo": "new proof requests (PT-BR)",
     "NotificationsOffMessage": "Be notified when you receive new credential offers, proof requests, updates to your credentials, new messages and more. (PT-BR)",
-    "NotificationsOffTitle": "Notifications for Bifold are turned off (PT-BR)",
+    "NotificationsOffTitle": "As notificações da ICI Wallet estão desativadas",
     "NotificationsInstructionTitle": "To enable notifications: (PT-BR)",
     "InstructionsOne": "Open the app's settings (PT-BR)",
     "InstructionsTwo": "Tap Notifications (PT-BR)",
@@ -578,12 +583,12 @@
     "TorchOff": "Flash desligado",
     "ScanHelp": "Ajuda do Scan",
     "ScanNow": "Scaneie Agora",
-    "ScanOnySpecial": "Apenas QR codes especiais podem ser escaneados pela Bifold Wallet.",
+    "ScanOnySpecial": "Apenas QR codes especiais podem ser escaneados pela ICI Wallet.",
     "ScanOnlySpecial2": "Estes são apresentados pelos serviços ou pessoas participantes para receber uma oferta de credenciais, solicitar informações ou para se conectar.",
-    "ScanOnlySpecial3": "No momento a Bifold Wallet não suporta a adição de credenciais digitais escaneando ou tirando fotos de credenciais físicas.",
-    "WhereToUseLink": "Veja onde você pode usar a Bifold Wallet",
+    "ScanOnlySpecial3": "No momento a ICI Wallet não suporta a adição de credenciais digitais escaneando ou tirando fotos de credenciais físicas.",
+    "WhereToUseLink": "Veja onde você pode usar a ICI Wallet",
     "BadQRCode": "QR Code não reconhecido",
-    "BadQRCodeDescription": "O QR code escaneado não funciona com a Bifold Wallet. A Bifold Wallet só funciona com serviços participantes.\n\nEla não pode adicionar credenciais digitais tirando fotos de credenciais físicas no momento.",
+    "BadQRCodeDescription": "O QR code escaneado não funciona com a ICI Wallet. A ICI Wallet só funciona com serviços participantes.\n\nEla não pode adicionar credenciais digitais tirando fotos de credenciais físicas no momento.",
     "ErrorDetails": "Scan error details (PT-BR)",
     "ShowDetails": "Show error details (PT-BR)",
     "NoDetails": "No error details available (PT-BR)"
@@ -806,7 +811,7 @@
   "Screens": {
     "Splash": "Splash",
     "Onboarding": "Onboarding",
-    "Preface": "Aries Bifold",
+    "Preface": "ICI Wallet",
     "Terms": "Termos & Condições",
     "CreatePIN": "Criar um PIN",
     "EnterPIN": "Digitar o PIN",
@@ -867,14 +872,14 @@
   },
   "NetInfo": {
     "NoInternetConnectionTitle": "Sem conexão com a internet",
-    "NoInternetConnectionMessage": "Não é possivel acessar serviços utilizando a Bifold ou receber credenciais até você voltar a estar online.\n\nFavor checkar sua conexão com a internet."
+    "NoInternetConnectionMessage": "Não é possível acessar serviços utilizando a ICI Wallet ou receber credenciais até você voltar a estar online.\n\nVerifique sua conexão com a internet."
   },
   "Onboarding": {
-    "SkipA11y": "Pular introdução a Aries Bifold"
+    "SkipA11y": "Pular introdução a ICI Wallet"
   },
   "Preface": {
     "PrimaryHeading": "Esse app é para você?",
-    "Paragraph1": "Muitas pessoas não precisarão da Aries Bifold pois pouquíssimas credenciais digitais estão disponíveis nesse momento.",
+    "Paragraph1": "Muitas pessoas não precisarão da ICI Wallet pois pouquíssimas credenciais digitais estão disponíveis nesse momento.",
     "Confirmed": "Eu confirmo que este app é para mim."
   },
   "Chat": {
@@ -938,8 +943,8 @@
     "WaitingForResponse": "Waiting for response... (PT-BR)"
   },
   "AppUpdate": {
-    "Heading": "Update Bifold to the latest version (PT-BR)",
-    "Body": "Bifold was updated with new improvements. Update your app now to enjoy the latest features and enhancements. (PT-BR)",
+    "Heading": "Atualize a ICI Wallet para a versão mais recente",
+    "Body": "A ICI Wallet foi atualizada com novas melhorias. Atualize o app agora para aproveitar os recursos e aprimoramentos mais recentes.",
     "LearnMore": "Learn what's New (PT-BR)",
     "UpdateNow": "Update the app (PT-BR)",
     "UpdateLater": "Do this later (PT-BR)"

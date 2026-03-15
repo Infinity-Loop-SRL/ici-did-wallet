@@ -96,11 +96,10 @@ const CustomPages = (onTutorialCompleted: GenericFn, OnboardingTheme: any) => {
         </View>
         <View style={{ marginBottom: 20 }}>
           <ThemedText style={styles.headerText} testID={testIdWithKey('HeaderText')}>
-            Ornare suspendisse sed nisi lacus
+            Keep your wallet secure
           </ThemedText>
           <ThemedText style={[styles.bodyText, { marginTop: 25 }]} testID={testIdWithKey('BodyText')}>
-            Enim facilisis gravida neque convallis a cras semper. Suscipit adipiscing bibendum est ultricies integer
-            quis auctor elit sed.
+            Protect your device, keep your PIN private, and only accept credentials or connections from sources you trust.
           </ThemedText>
         </View>
       </ScrollView>
@@ -120,14 +119,14 @@ const CustomPages = (onTutorialCompleted: GenericFn, OnboardingTheme: any) => {
 const guides: Array<{ image: React.FC<SvgProps>; title: string; body: string; devModeListener?: boolean }> = [
   {
     image: CredentialList,
-    title: 'Lorem ipsum dolor sit amet',
-    body: 'Ipsum faucibus vitae aliquet nec ullamcorper sit amet risus.',
+    title: 'Store your credentials',
+    body: 'Your digital credentials will appear here after you accept them. You can review details and manage what is stored in your wallet.',
     devModeListener: true,
   },
   {
     image: ScanShare,
-    title: 'Excepteur sint occaecat ',
-    body: 'Mollis aliquam ut porttitor leo a diam sollicitudin tempor.',
+    title: 'Scan and share securely',
+    body: 'Use the scan feature to receive credential offers, respond to proof requests, and connect with trusted services.',
   },
 ]
 

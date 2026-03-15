@@ -24,7 +24,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     window = UIWindow(frame: UIScreen.main.bounds)
 
     factory.startReactNative(
-      withModuleName: "Aries-Bifold",
+      withModuleName: "ICIWallet",
       in: window,
       launchOptions: launchOptions
     )

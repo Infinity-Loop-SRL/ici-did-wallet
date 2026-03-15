@@ -1,5 +1,5 @@
 import React, { useEffect, useRef } from 'react'
-import { View, StyleSheet, Animated, Image } from 'react-native'
+import { View, StyleSheet, Animated } from 'react-native'
 
 import { useTheme } from '../../contexts/theme'
 import { testIdWithKey } from '../../utils/testable'
@@ -34,11 +34,7 @@ const LoadingIndicator: React.FC = () => {
 
   return (
     <View style={{ alignItems: 'center', justifyContent: 'center' }} testID={testIdWithKey('LoadingActivityIndicator')}>
-      <Image
-        source={Assets.img.logoSecondary.src}
-        style={{ width: Assets.img.logoSecondary.width, height: Assets.img.logoSecondary.height, objectFit: 'contain' }}
-        testID={testIdWithKey('LoadingActivityIndicatorImage')}
-      />
+      <Assets.svg.logo width={120} height={106} testID={testIdWithKey('LoadingActivityIndicatorImage')} />
       <Animated.View style={[style.animation, { transform: [{ rotate: rotation }] }]}>
         <Assets.svg.activityIndicator {...imageDisplayOptions} />
       </Animated.View>

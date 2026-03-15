@@ -24,7 +24,7 @@ class MainActivity : ReactActivity() {
     /**
      * Returns the name of the main component registered from JavaScript.
      */
-    override fun getMainComponentName(): String = "Aries-Bifold"
+    override fun getMainComponentName(): String = "ICIWallet"
 
     /**
      * Returns the instance of the ReactActivityDelegate.
